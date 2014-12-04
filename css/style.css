@@ -1,0 +1,49 @@
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+::-webkit-input-placeholder {
+	font-size: 17px;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+	font-size: 17px;
+}
+
+::-moz-placeholder { /* Firefox 19+ */
+	font-size: 17px;
+}
+
+:-ms-input-placeholder {
+	font-size: 17px;
+}
+
+h1 {
+	font-family: Advert;
+}
+
+#listinput {
+	font-size: 70px;
+	font-weight: bold;
+	position: absolute;
+	text-align: center;
+	text-rendering: optimizelegibility;
+	top: -50px;
+	width: 100%;
+}
+
+#new-list {
+	border: 1px solid #999;
+	box-shadow: 0 -1px 5px 0 rgba(0,0,0,0.2) inset;
+	box-sizing: border-box;
+	color: inherit;
+	font-family: inherit;
+	font-size: 24px;
+	line-height: 1.4em;
+	margin: 0;
+	outline: medium none;
+	padding: 6px;
+	position: relative;
+	width: 548px
+}
