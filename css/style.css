@@ -1,12 +1,9 @@
-<<<<<<< HEAD
 
 html, body {
     margin: 0;
     padding: 0;
 }
 
-=======
->>>>>>> 05a89655fb1f1a8f59c6d24a89d12e4c4ccd3cdf
 ::-webkit-input-placeholder {
    font-size: 17px;
 }
@@ -33,7 +30,6 @@ html, body {
     padding: 0;
 }
 
-<<<<<<< HEAD
 h1 {
   font-family: 'Oswald', sans-serif;
   color: #000000;
@@ -149,7 +145,7 @@ button, input[type="checkbox"] {
 .list{
   border-top: 1px dashed #46E0FF;
   border-bottom: 1px dashed #46E0FF;
-=======
+  
 body {
 	background-color: #ffffff;
 	width: 550px;
